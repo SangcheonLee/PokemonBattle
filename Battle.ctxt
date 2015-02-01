@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=p1\ p2
+comment0.target=Battle(Trainer,\ Trainer)
+comment1.params=
+comment1.target=void\ PokemonStart()
+comment2.params=player
+comment2.target=void\ PokemonSwitch(Trainer)
+comment2.text=Used\ for\ Switching\ Pokemon\ during\ battle\ *
+comment3.params=player
+comment3.target=void\ PokemonBattle(Trainer)
+comment3.text=Used\ for\ getting\ the\ Battle\ moves\ *
+comment4.params=player\ otherTrainer
+comment4.target=void\ PokemonBattleDamage(Trainer,\ Trainer)
+comment4.text=Switch's\ Pokemons\ if\ otherTrainer's\ Pokemon\ faints\ *
+numComments=5
