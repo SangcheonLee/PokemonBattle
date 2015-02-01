@@ -1,5 +1,5 @@
 # PokemonBattle
-High School. 2012
+Created in 2012 during my junior year of high school
 
 Text-based simulation based on the popular game Pokémon
 
